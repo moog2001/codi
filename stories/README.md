@@ -3,6 +3,7 @@
 Written by Claude, on request, in one long session. Each story stands alone.
 
 - [Six Breaths](six-breaths.md): relay keepers who may not write anything down
+- **[The Shape of What We Carry](the-shape-of-what-we-carry/README.md)**: a novel in chapters that continues *Six Breaths*
 - [001 · The Last Repeater](001-the-last-repeater.md): a forgotten microwave relay and its one customer
 - [002 · Lunch Hour on the Moon](002-lunch-hour-on-the-moon.md): a man whose job is to say "copy"
 - [003 · Inventory](003-inventory.md): the contents of an abandoned storage unit
